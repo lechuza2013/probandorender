@@ -2,7 +2,7 @@
   "name": "probando",
   "version": "1.0.0",
   "description": "",
-  "main": "./src/index.html",
+  "main": "index.html",
   "scripts": {
     "test": "ava",
     "start": "parcel ./src/index.html",
