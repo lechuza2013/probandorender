@@ -4,8 +4,8 @@
   "description": "",
   "scripts": {
     "test": "ava",
-    "start": "parcel ./src/index.html",
-    "build": "parcel build ./src/index.html"
+    "start": "node script.ts",
+    "build": "tsc script.js"
   },
   "author": "",
   "license": "ISC",
